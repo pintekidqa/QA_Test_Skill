@@ -10,7 +10,7 @@ Scenario end to end testing (manual) dengan user :  standard_user.
 Script automation testing berdasarkan skenario diatas
 
 ```
-Cari & Dokumentasikan Bug
+### Cari & Dokumentasikan Bug
 ```
 di trello & invite saya via email : faris.kurnia@pintek.id
 
