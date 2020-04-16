@@ -12,11 +12,11 @@ https://www.saucedemo.com/
 ```
 ### Cari & Dokumentasikan Bug
 ```
-di trello & invite saya via email : faris.kurnia@pintek.id
+3. di trello & invite saya via email : faris.kurnia@pintek.id
 
 ```
 
 ## Script
 ```
-Push atau Masukan Script Manual & Automation Testing ke Github kemudian bagikan link repository ke Email diatas / HR Email
+4. Push atau Masukan Script Manual & Automation Testing ke Github kemudian bagikan link repository ke Email diatas / HR Email
 ```
